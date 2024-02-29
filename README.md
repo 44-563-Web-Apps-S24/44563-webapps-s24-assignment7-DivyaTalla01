@@ -4,3 +4,4 @@ An assignment on java script modifying the DOM and using anonymous callback func
 "hosted at" https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment7-DivyaTalla01/blob/main/money.html
 https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment7-DivyaTalla01/blob/main/precision.html
 
+https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment7-DivyaTalla01/blob/main/divlist.html.html
